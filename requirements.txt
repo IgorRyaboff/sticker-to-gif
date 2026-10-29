@@ -1,0 +1,5 @@
+boto3>=1.36
+imageio-ffmpeg>=0.6
+Pillow>=11
+requests>=2.32
+rlottie-python>=1.3

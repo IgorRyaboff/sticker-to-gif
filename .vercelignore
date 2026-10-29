@@ -1,0 +1,10 @@
+.env
+.venv
+**/__pycache__
+.pytest_cache
+out
+tests
+openspec
+.claude
+.codex
+.cursor
